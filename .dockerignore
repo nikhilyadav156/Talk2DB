@@ -6,3 +6,7 @@ __pycache__/
 .gitignore
 test_db.py
 README.md
+vector_store/*.bin
+vector_store/*.pkl
+vector_store/query_history.json
+.env
