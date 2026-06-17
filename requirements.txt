@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+sqlalchemy
+pymysql
+streamlit
+python-dotenv
+pandas
+requests
+langchain-huggingface
+huggingface-hub
+groq
+numpy
+sentence-transformers
