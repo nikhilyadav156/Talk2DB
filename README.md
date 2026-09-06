@@ -189,9 +189,7 @@ Which department has the highest average salary
 
 ## About
 
-Built by **Nikhil Yadav** as part of a data science portfolio project.
-
-B.Tech CSE (Data Science) · Bhilai Institute of Technology · Durg
+Built by **Nikhil Yadav** as part of a portfolio project.
 
 This project demonstrates end-to-end skills in LLM integration, RAG architecture, REST API development, database engineering and frontend design.
 
